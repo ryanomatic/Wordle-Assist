@@ -1,5 +1,9 @@
 # wordle_assist
-A basic and hastily written but effective Wordle assist.
+A basic and hastily written but effective Wordle assist with Python 3.X.
+
+Files:
+  1) words_alpha.txt - List of English words - not all are valid for wordle
+  2) wordle_solve_vscode.py - Program
 
 Has two functions:
   1) Recommend likely words and show an estimated probability
